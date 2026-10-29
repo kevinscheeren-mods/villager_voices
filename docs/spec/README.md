@@ -93,7 +93,7 @@ first ticket" where it appears.
 | Standard | Divergence | Recorded in |
 |---|---|---|
 | `standards/legal/dependency-license-policy.md` | MIT, no CLA | `decisions/DEC-003-licence.md` |
-| "no remote unless justified later" | Public on GitHub under `cubealgos-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03) | `decisions/DEC-003-licence.md` |
+| "no remote unless justified later" | Public on GitHub under `kevinscheeren-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03) | `decisions/DEC-003-licence.md` |
 | Kevin's own proposed Modrinth slug (`villager-voices`) | Taken by an unrelated project; an alternative is proposed, not yet confirmed | `decisions/DEC-002-name.md` |
 
 ## Decisions

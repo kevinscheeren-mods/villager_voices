@@ -15,7 +15,7 @@ category: "villager_voices"
 | Original content only — no Villager News, Element Animation, or Bedrock content | Enforced by writing discipline (`decisions/DEC-009-positioning.md`), not by a mechanical check: no line's text, no audio sample, and no description text is ever copied, translated, or paraphrased from Element Animation's Villager News or Oreville Studios' Villager News Bedrock add-on. |
 | AI-content disclosure | Modrinth §6.1/§6.2 requires disclosure if a shipped asset is AI-generated or AI-assisted (research §E1). **Piper TTS output is AI-generated audio** — the listing and `NOTICE` shall disclose this plainly (`REL-REQ-004`), regardless of how the mod itself is marketed. |
 | Supply chain and release integrity | Builds from a tagged commit with pinned dependencies; the release checksum is in the release notes; no signing at 1.0. |
-| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/cubealgos-mods/villager_voices/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
+| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/kevinscheeren-mods/villager_voices/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
 | Server trust boundary | Event detection, cooldowns, selection, and display are entirely server-side (`04-architecture.md` "Runtime topology"); no client packet or input this mod trusts for any of it. |
 | AI Act, GoBD, sector regulation | The Piper-generated audio is a build artifact, not a live AI feature reachable by an end user — no AI Act "system" obligations attach the way they would for a runtime AI feature; not a financial-records or regulated-sector product. |
 

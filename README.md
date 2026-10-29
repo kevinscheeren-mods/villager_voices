@@ -13,8 +13,8 @@ placeholders once the text catalogue and display path are proven
 MIT (LICENSE); credits in NOTICE. All shipped writing and audio are original to this project.
 
 Support and issues go through the issue tracker only:
-https://github.com/cubealgos-mods/villager_voices/issues.
+https://github.com/kevinscheeren-mods/villager_voices/issues.
 
-Source: https://github.com/cubealgos-mods/villager_voices.
+Source: https://github.com/kevinscheeren-mods/villager_voices.
 
 Development: `just --list`. The specification is `docs/spec/`.

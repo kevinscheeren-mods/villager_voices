@@ -1,7 +1,7 @@
 # Support
 
 Wait, they talk now? is supported through its issue tracker only, at
-https://github.com/cubealgos-mods/villager_voices/issues. There is no service level: issues are read
+https://github.com/kevinscheeren-mods/villager_voices/issues. There is no service level: issues are read
 and answered as time allows, and there is no guarantee of a fix or a date.
 
 When reporting, include the Minecraft version, the loader and its version, the mod version from
