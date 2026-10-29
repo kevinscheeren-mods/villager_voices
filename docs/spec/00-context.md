@@ -33,7 +33,7 @@ Create fork.
 ## Business context
 
 No business model, no revenue, no telemetry. Published on Modrinth under MIT, source on the
-GitHub under `cubealgos-mods`, with the issue tracker there, public from the first commit
+GitHub under `kevinscheeren-mods`, with the issue tracker there, public from the first commit
 (`decisions/DEC-003-licence.md`).
 
 ## Positioning: described on its own terms

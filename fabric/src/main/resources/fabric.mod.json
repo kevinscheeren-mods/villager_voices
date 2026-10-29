@@ -5,11 +5,11 @@
   "name": "Wait, they talk now?",
   "description": "Villagers react to what happens to them, with voices and text.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
-    "sources": "https://github.com/cubealgos-mods/villager_voices",
-    "issues": "https://github.com/cubealgos-mods/villager_voices/issues"
+    "sources": "https://github.com/kevinscheeren-mods/villager_voices",
+    "issues": "https://github.com/kevinscheeren-mods/villager_voices/issues"
   },
   "license": "MIT",
   "environment": "*",
